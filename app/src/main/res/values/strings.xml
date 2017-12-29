@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">IIT Bhilai-Pithy</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Log in</string>
+    <string name="todo17">TODO</string>
+    <string name="textview6">TextView</string>
+    <string name="todo16">TODO</string>
+    <string name="todo15">TODO</string>
+    <string name="todo14">TODO</string>
+    <string name="fee_and_registration">Fee and Registration</string>
+    <string name="textview5">TextView</string>
+    <string name="administrators">Administrators</string>
+    <string name="textview4">TextView</string>
+    <string name="textview3">TextView</string>
+    <string name="textview2">TextView</string>
+    <string name="textview1">TextView</string>
+    <string name="todo1">TODO1</string>
+    <string name="todo2">TODO2</string>
+    <string name="todo">TODO</string>
+    <string name="todo3">TODO3</string>
+    <string name="todo4">TODO4</string>
+    <string name="todo5">TODO5</string>
+    <string name="todo6">TODO6</string>
+    <string name="todo7">TODO7</string>
+    <string name="todo8">TODO8</string>
+    <string name="todo9">TODO9</string>
+    <string name="todo10">TODO10</string>
+    <string name="todo11">TODO11</string>
+    <string name="todo12">TODO12</string>
+    <string name="todo13">TODO13</string>
+
+</resources>
